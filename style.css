@@ -1,0 +1,30 @@
+
+.blog{
+  margin-top: 30px;
+}
+
+.box{
+  margin-top: 20px;
+  min-height: 100px;
+  background-color: #9fe2bf;
+  border: 2px solid blue;
+}
+
+.box-dft{
+  margin-top: 20px;
+  min-height: 100px;
+  background-color: #CCCCFF;
+  border: 2px solid blue;
+}
+.box-df{
+  margin-top: 20px;
+  min-height: 100px;
+  background-color: #FF7F50;
+  border: 2px solid blue;
+}
+.box-d{
+  margin-top: 20px;
+  min-height: 100px;
+  background-color: olive;
+  border: 2px solid blue;
+}
